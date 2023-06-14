@@ -1,1 +1,1 @@
-# Mini Project - Plagiarism checker
+# Mini Project - Plagiarism Checker
