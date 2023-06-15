@@ -1,4 +1,4 @@
-# Mini Project - Plagiarism Checker
+# Mini Project - Plagiarism Checker ( Cosine Similarity )
 
 ---
 ### Check similarity between text (.txt) documents using cosine similarity
